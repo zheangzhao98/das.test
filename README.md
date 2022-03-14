@@ -8,6 +8,4 @@ can also change in github
  how can i add context from r studio?
 another editing
 
-
-from r studio:
-change - save the .md document -
+how to push from rstudio?
