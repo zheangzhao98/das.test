@@ -10,4 +10,4 @@ another editing
 
 how to push from rstudio?
 
-change - *save* - click the staged - commit - push 
+change - **save** - click the staged - commit - push 
