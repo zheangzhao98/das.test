@@ -9,3 +9,5 @@ can also change in github
 another editing
 
 how to push from rstudio?
+
+change - *save* - push 
