@@ -10,4 +10,4 @@ another editing
 
 
 from r studio:
-change - *save* the .md document - push - success
+change - save the .md document -
